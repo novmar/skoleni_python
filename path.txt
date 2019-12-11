@@ -1,0 +1,10 @@
+go
+left
+go
+go
+right
+go
+go
+right
+right
+go
